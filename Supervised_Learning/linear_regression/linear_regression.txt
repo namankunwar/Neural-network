@@ -1,0 +1,18 @@
+Linear regression is used to model the relationship between two variables, where one variable (the dependent variable) is predicted based on the other variable (the independent variable). 
+The equation for linear regression is 
+Y = mX + b, where 
+Y is the dependent variable, 
+X is the independent variable,
+m is the slope of the line(how much Y changes for one unit change in X), and 
+b is the y-intercept(Value of Y when X is 0).
+
+calculate m = Sum of product of deviation / sum of square of deviation of x
+-> first calculate mean of X and Y variable.
+-> calculate Deviation of X AND Y (X - MEAN OF X)...
+-> CALCULATE product of deviation ( Deviation of X * Deviation of Y)
+->sum the Product of deviation
+-> square the deviation of X AND SUM IT. 
+
+calculate b= Mean of Y - (m*Mean of X)
+
+-> linear regression concepts involves refining and cleaning data to reduce errors, even though some errors may still occur due to outliers in the data.
