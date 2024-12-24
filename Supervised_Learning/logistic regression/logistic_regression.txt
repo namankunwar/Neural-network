@@ -1,0 +1,16 @@
+Logistic regression is a statistical method used for binary classification problems, where the goal is to predict the probability that an instance belongs to one of two classes. Despite its name, logistic regression is actually a classification algorithm, not a regression algorithm.
+
+here, dependent variable is categorical and binary ( 0 or 1)
+
+-> It predicts probabilities using a logistic/sigmoid function, mapping outputs between 0 and 1.
+
+-> If  P(y=1∣X)>0.5, the algorithm predicts class 1; otherwise, it predicts class 0.
+
+-> Logistic Regression is a classification model used to predict multiple classes based on independent variables.
+->  Logistic regression predicts the probability of an event occurring based on given data.
+->  The logistic regression model predicts the probability of a given outcome.
+-> Logistic regression divides data into two classes based on given variables.
+-> Logistic regression is used for classification based on probabilities.
+-> The video discusses the calculation of the value of a note and A1 using the Maximum Likelihood Estimation method and Gridin Descent method.
+-> Logistic regression calculates the probability of an event happening.
+-> Logistic regression is used for classifying data into categories.
